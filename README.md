@@ -35,7 +35,7 @@ src->test->java->com->org
 - Test File->CurrencyConversionUser.java 
   > This file contains all the test scenarios.
 - Step File->APIAutomation.java 
-  > All the Logical implementation for the test scenarios is implemented in SeleniumAutomation file.
+  > All the Logical implementation for the test scenarios is implemented in APIAutomation file.
 
 In Serenity BDD we will run the Test Java File 
 
@@ -49,5 +49,5 @@ In Serenity BDD we will run the Test Java File
 * I choose POSTMAN as tool ,Hence I was unable to use the get Data property mentioned in document
 
 
-Sample serenity report screenshot is attached.
+Sample serenity report screenshot is attached as PDF.
  
