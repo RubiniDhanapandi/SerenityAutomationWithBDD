@@ -43,3 +43,6 @@ mvn verify
 mvn -Dtest =CurrencyConversionUser test from cmd prompt
 * To view the HTML result navigate to Target->Site->Serenity->index.html in project folder 
 * I choose POSTMAN as tool ,Hence I was unable to use the get Data property mentioned in document
+
+
+I have attached the sample serenity report screenshot
